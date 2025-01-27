@@ -9,4 +9,5 @@
  * (chaque article sera dans un tableau avec name et price) 
  * Implémentez une méthode pour afficher tous les items.
  * Implémentez une méthode pour calculer le coût total.
+ * En dessous de la classe, créer un objet et appeler vos méthodes
  */
