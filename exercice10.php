@@ -65,8 +65,8 @@ function getMax(array $numbers): float
 }
 
 // Exemple d’utilisation
-echo "Tableau de nombres : " . implode(", ", $numbers) . "\n";
-echo "Somme : " . getSum($numbers) . "\n";
-echo "Moyenne : " . getAverage($numbers) . "\n";
-echo "Valeur minimale : " . getMin($numbers) . "\n";
-echo "Valeur maximale : " . getMax($numbers) . "\n";
+echo "Tableau de nombres : " . implode(", ", $numbers) . "<br>";
+echo "Somme : " . getSum($numbers) . "<br>";
+echo "Moyenne : " . getAverage($numbers) . "<br>";
+echo "Valeur minimale : " . getMin($numbers) . "<br>";
+echo "Valeur maximale : " . getMax($numbers) . "<br>";
