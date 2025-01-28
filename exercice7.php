@@ -8,3 +8,6 @@
  * Affichez un message lors de chaque opération.
  * En dessous de la classe, créer un objet et appeler les méthodes
 */
+class BankAccount {
+    private $balance;
+?>
